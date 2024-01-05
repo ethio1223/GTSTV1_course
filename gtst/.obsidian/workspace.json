@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "ada5b7e3583540ba",
@@ -116,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,11 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebdd56f57d8892d7",
+  "active": "753f8c28dc2a963c",
   "lastOpenFiles": [
-    "day2.md",
+    "Untitled 1",
+    "Untitled",
+    "Welcome.md",
     "day 1.md",
-    "day1.md",
-    "Welcome.md"
+    "day2.md",
+    "day1.md"
   ]
 }
